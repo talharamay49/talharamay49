@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @talharamay49
-- 
-- 👀 Welcome to my GitHub repository! As a T3 Stack Developer, I specialize in building robust and scalable web applications using the T3 stack: TypeScript, Express.js, and React.js.
--  Here you will find a collection of my projects, contributions, and code samples that highlight my skills and expertise in full-stack development.
+** 👋 Hi, I’m @talharamay49**
+
+👀 Welcome to my GitHub repository! As a T3 Stack Developer, I specialize in building robust and scalable web applications using the T3 stack: TypeScript, Express.js, and React.js.
+Here you will find a collection of my projects, contributions, and code samples that highlight my skills and expertise in full-stack development.
+
 
 ****Skills****
 
